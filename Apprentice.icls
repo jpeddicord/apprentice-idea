@@ -13,6 +13,7 @@
     <option name="DELETED_LINES_COLOR" value="af5f5f" />
     <option name="GUTTER_BACKGROUND" value="1c1c1c" />
     <option name="LINE_NUMBERS_COLOR" value="6c6c6c" />
+    <option name="METHOD_SEPARATORS_COLOR" value="6c6c6c" />
     <option name="MODIFIED_LINES_COLOR" value="8787af" />
     <option name="NOTIFICATION_BACKGROUND" value="87875f" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="87875f" />

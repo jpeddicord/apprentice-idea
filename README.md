@@ -1,2 +1,3 @@
 # apprentice-idea
-adaptation of https://github.com/romainl/Apprentice for JetBrains products (IntelliJ IDEA, WebStorm, etc)
+
+this isn't yet complete. i suggest you hold off for now.

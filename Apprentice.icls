@@ -1,4 +1,4 @@
-<scheme name="Apprentice" version="142" parent_scheme="Default">
+<scheme name="Apprentice" version="142" parent_scheme="Darcula">
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
@@ -12,13 +12,15 @@
     <option name="CONSOLE_BACKGROUND_KEY" value="262626" />
     <option name="DELETED_LINES_COLOR" value="af5f5f" />
     <option name="GUTTER_BACKGROUND" value="1c1c1c" />
+    <option name="INDENT_GUIDE" value="444444" />
     <option name="LINE_NUMBERS_COLOR" value="6c6c6c" />
-    <option name="METHOD_SEPARATORS_COLOR" value="6c6c6c" />
+    <option name="METHOD_SEPARATORS_COLOR" value="444444" />
     <option name="MODIFIED_LINES_COLOR" value="8787af" />
     <option name="NOTIFICATION_BACKGROUND" value="87875f" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="87875f" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="ffffaf" />
     <option name="RIGHT_MARGIN_COLOR" value="af5f5f" />
+    <option name="SELECTED_INDENT_GUIDE" value="6c6c6c" />
     <option name="SELECTED_TEARLINE_COLOR" value="8fafd7" />
     <option name="SELECTION_BACKGROUND" value="8fafd7" />
     <option name="SELECTION_FOREGROUND" value="262626" />
@@ -622,6 +624,13 @@
     <option name="MAKO.TAG_ID">
       <value>
         <option name="FOREGROUND" value="5f8787" />
+      </value>
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ffffaf" />
+        <option name="BACKGROUND" value="1c1c1c" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="METHOD_DECLARATION_ATTRIBUTES">

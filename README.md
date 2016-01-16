@@ -4,7 +4,7 @@ Here's a port of the [Apprentice theme for Vim](https://github.com/romainl/Appre
 
 * This theme works was created with IntelliJ's Darcula theme in mind. A "light" version is available that should work with the default color scheme. This theme isn't actually "light" in the typical sense, however.
 * Vim's color schemes for different languages are kind of bonkers. This is no fault of the Apprentice scheme -- it's the way Vim's syntax plugins identify different keywords. However, I've done my best to make languages look consistent in IntelliJ.
-* I've taken some extra design liberties in some languages where things just looked better when tweaked. The original color palette has been preserved.
+* I've taken some extra design liberties in some languages where things just looked better when tweaked. This is largely because IntelliJ and Vim identify cetain language constructs differently. The original color palette has been preserved.
 
 ## supported languages
 

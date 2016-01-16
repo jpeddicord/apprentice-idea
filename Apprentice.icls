@@ -1333,6 +1333,18 @@
     <option name="STATIC_METHOD_ATTRIBUTES">
       <value />
     </option>
+    <option name="Scala Immutable Collection">
+      <value>
+        <option name="EFFECT_COLOR" value="87af87" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="Scala Mutable Collection">
+      <value>
+        <option name="EFFECT_COLOR" value="8787af" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
     <option name="Static property reference ID">
       <value>
         <option name="FOREGROUND" value="5f87af" />

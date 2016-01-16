@@ -224,6 +224,123 @@
         <option name="FOREGROUND" value="ffffaf" />
       </value>
     </option>
+    <option name="CSS.BAD_CHARACTER">
+      <value>
+        <option name="FOREGROUND" value="af5f5f" />
+      </value>
+    </option>
+    <option name="CSS.BRACES">
+      <value>
+        <option name="FOREGROUND" value="bcbcbc" />
+      </value>
+    </option>
+    <option name="CSS.BRACKETS">
+      <value>
+        <option name="FOREGROUND" value="bcbcbc" />
+      </value>
+    </option>
+    <option name="CSS.COLON">
+      <value>
+        <option name="FOREGROUND" value="bcbcbc" />
+        <option name="BACKGROUND" value="262626" />
+      </value>
+    </option>
+    <option name="CSS.COMMA">
+      <value>
+        <option name="FOREGROUND" value="bcbcbc" />
+      </value>
+    </option>
+    <option name="CSS.COMMENT">
+      <value>
+        <option name="FOREGROUND" value="585858" />
+      </value>
+    </option>
+    <option name="CSS.DOT">
+      <value>
+        <option name="FOREGROUND" value="bcbcbc" />
+      </value>
+    </option>
+    <option name="CSS.FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="8fafd7" />
+      </value>
+    </option>
+    <option name="CSS.HASH">
+      <value>
+        <option name="FOREGROUND" value="8fafd7" />
+      </value>
+    </option>
+    <option name="CSS.IDENT">
+      <value>
+        <option name="FOREGROUND" value="8fafd7" />
+      </value>
+    </option>
+    <option name="CSS.IMPORTANT">
+      <value>
+        <option name="FOREGROUND" value="af5f5f" />
+      </value>
+    </option>
+    <option name="CSS.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="8fafd7" />
+      </value>
+    </option>
+    <option name="CSS.NUMBER">
+      <value>
+        <option name="FOREGROUND" value="ff8700" />
+      </value>
+    </option>
+    <option name="CSS.OPERATORS">
+      <value>
+        <option name="FOREGROUND" value="bcbcbc" />
+      </value>
+    </option>
+    <option name="CSS.PARENTHESES">
+      <value>
+        <option name="FOREGROUND" value="bcbcbc" />
+      </value>
+    </option>
+    <option name="CSS.PROPERTY_NAME">
+      <value>
+        <option name="FOREGROUND" value="8787af" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="CSS.PROPERTY_VALUE">
+      <value>
+        <option name="FOREGROUND" value="87af87" />
+      </value>
+    </option>
+    <option name="CSS.PSEUDO">
+      <value>
+        <option name="FOREGROUND" value="8fafd7" />
+      </value>
+    </option>
+    <option name="CSS.SEMICOLON">
+      <value>
+        <option name="FOREGROUND" value="bcbcbc" />
+      </value>
+    </option>
+    <option name="CSS.STRING">
+      <value>
+        <option name="FOREGROUND" value="87af87" />
+      </value>
+    </option>
+    <option name="CSS.TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="8fafd7" />
+      </value>
+    </option>
+    <option name="CSS.UNICODE.RANGE">
+      <value>
+        <option name="FOREGROUND" value="8fafd7" />
+      </value>
+    </option>
+    <option name="CSS.URL">
+      <value>
+        <option name="FOREGROUND" value="87af87" />
+      </value>
+    </option>
     <option name="CTRL_CLICKABLE">
       <value>
         <option name="EFFECT_COLOR" value="bcbcbc" />
@@ -570,10 +687,35 @@
         <option name="FOREGROUND" value="8fafd7" />
       </value>
     </option>
+    <option name="HTML_ATTRIBUTE_NAME">
+      <value>
+        <option name="FOREGROUND" value="8787af" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="HTML_ATTRIBUTE_VALUE">
+      <value>
+        <option name="FOREGROUND" value="87af87" />
+      </value>
+    </option>
     <option name="HTML_CODE">
       <value>
-        <option name="FOREGROUND" value="8fafd7" />
+        <option name="FOREGROUND" value="bcbcbc" />
         <option name="BACKGROUND" value="262626" />
+      </value>
+    </option>
+    <option name="HTML_ENTITY_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="5f875f" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="HTML_TAG">
+      <value />
+    </option>
+    <option name="HTML_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="8fafd7" />
       </value>
     </option>
     <option name="HYPERLINK_ATTRIBUTES">
@@ -643,6 +785,11 @@
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
       <value>
         <option name="FOREGROUND" value="ffffaf" />
+      </value>
+    </option>
+    <option name="JS.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="8fafd7" />
       </value>
     </option>
     <option name="JS.LOCAL_VARIABLE">
@@ -1091,6 +1238,11 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="RUBY_INTERPOLATED_STRING">
+      <value>
+        <option name="FOREGROUND" value="87af87" />
+      </value>
+    </option>
     <option name="RUBY_LINE_CONTINUATION">
       <value>
         <option name="FOREGROUND" value="bcbcbc" />
@@ -1109,6 +1261,11 @@
     <option name="RUBY_NTH_REF">
       <value>
         <option name="FOREGROUND" value="5f87af" />
+      </value>
+    </option>
+    <option name="RUBY_NUMBER">
+      <value>
+        <option name="FOREGROUND" value="ff8700" />
       </value>
     </option>
     <option name="RUBY_PARAMETER_ID">
@@ -1131,10 +1288,20 @@
         <option name="FOREGROUND" value="ff8700" />
       </value>
     </option>
+    <option name="SASS_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="585858" />
+      </value>
+    </option>
     <option name="SASS_MIXIN">
       <value>
         <option name="FOREGROUND" value="5f8787" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="SASS_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="5f87af" />
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
@@ -1239,9 +1406,145 @@
         <option name="FOREGROUND" value="af5f5f" />
       </value>
     </option>
+    <option name="XML_ATTRIBUTE_NAME">
+      <value>
+        <option name="FOREGROUND" value="8787af" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="XML_ENTITY_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="5f875f" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="XML_NS_PREFIX">
+      <value>
+        <option name="FOREGROUND" value="5f87af" />
+      </value>
+    </option>
     <option name="XML_PROLOGUE">
       <value>
+        <option name="FOREGROUND" value="8787af" />
+        <option name="BACKGROUND" value="262626" />
+      </value>
+    </option>
+    <option name="XML_TAG">
+      <value />
+    </option>
+    <option name="XML_TAG_DATA">
+      <value>
+        <option name="FOREGROUND" value="bcbcbc" />
+        <option name="BACKGROUND" value="262626" />
+      </value>
+    </option>
+    <option name="XML_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="8fafd7" />
+      </value>
+    </option>
+    <option name="XPATH.BRACKET">
+      <value>
+        <option name="FOREGROUND" value="bcbcbc" />
+      </value>
+    </option>
+    <option name="XPATH.FUNCTION">
+      <value />
+    </option>
+    <option name="XPATH.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="8fafd7" />
+      </value>
+    </option>
+    <option name="XPATH.NUMBER">
+      <value>
+        <option name="FOREGROUND" value="ff8700" />
+      </value>
+    </option>
+    <option name="XPATH.OPERATION_SIGN">
+      <value>
+        <option name="FOREGROUND" value="bcbcbc" />
+      </value>
+    </option>
+    <option name="XPATH.PARENTH">
+      <value>
+        <option name="FOREGROUND" value="bcbcbc" />
+      </value>
+    </option>
+    <option name="XPATH.STRING">
+      <value>
+        <option name="FOREGROUND" value="87af87" />
+      </value>
+    </option>
+    <option name="XPATH.XPATH_NAME">
+      <value>
+        <option name="FOREGROUND" value="bcbcbc" />
+        <option name="BACKGROUND" value="262626" />
+      </value>
+    </option>
+    <option name="XPATH.XPATH_PREFIX">
+      <value>
+        <option name="FOREGROUND" value="bcbcbc" />
+        <option name="BACKGROUND" value="262626" />
+      </value>
+    </option>
+    <option name="XPATH.XPATH_TEXT">
+      <value>
+        <option name="FOREGROUND" value="bcbcbc" />
+        <option name="BACKGROUND" value="262626" />
+      </value>
+    </option>
+    <option name="XPATH.XPATH_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="bcbcbc" />
+      </value>
+    </option>
+    <option name="XSLT_DIRECTIVE">
+      <value>
         <option name="FOREGROUND" value="5f8787" />
+      </value>
+    </option>
+    <option name="YAML_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="5f875f" />
+      </value>
+    </option>
+    <option name="YAML_SCALAR_DSTRING">
+      <value>
+        <option name="FOREGROUND" value="87af87" />
+      </value>
+    </option>
+    <option name="YAML_SCALAR_KEY">
+      <value>
+        <option name="FOREGROUND" value="8fafd7" />
+      </value>
+    </option>
+    <option name="YAML_SCALAR_LIST">
+      <value>
+        <option name="FOREGROUND" value="bcbcbc" />
+        <option name="BACKGROUND" value="262626" />
+      </value>
+    </option>
+    <option name="YAML_SCALAR_STRING">
+      <value>
+        <option name="FOREGROUND" value="87af87" />
+      </value>
+    </option>
+    <option name="YAML_SCALAR_VALUE">
+      <value>
+        <option name="FOREGROUND" value="bcbcbc" />
+        <option name="BACKGROUND" value="262626" />
+      </value>
+    </option>
+    <option name="YAML_SIGN">
+      <value>
+        <option name="FOREGROUND" value="bcbcbc" />
+      </value>
+    </option>
+    <option name="YAML_TEXT">
+      <value>
+        <option name="FOREGROUND" value="bcbcbc" />
+        <option name="BACKGROUND" value="262626" />
       </value>
     </option>
   </attributes>

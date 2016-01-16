@@ -1003,6 +1003,34 @@
         <option name="BACKGROUND" value="8fafd7" />
       </value>
     </option>
+    <option name="PERL_ARRAY">
+      <value>
+        <option name="FOREGROUND" value="bcbcbc" />
+      </value>
+    </option>
+    <option name="PERL_EMBED_MARKER">
+      <value>
+        <option name="FOREGROUND" value="5f8787" />
+      </value>
+    </option>
+    <option name="PERL_GLOB">
+      <value>
+        <option name="FOREGROUND" value="bcbcbc" />
+      </value>
+    </option>
+    <option name="PERL_HASH">
+      <value>
+        <option name="FOREGROUND" value="bcbcbc" />
+      </value>
+    </option>
+    <option name="PERL_SCALAR">
+      <value>
+        <option name="FOREGROUND" value="bcbcbc" />
+      </value>
+    </option>
+    <option name="PERL_SUB">
+      <value />
+    </option>
     <option name="PHP_EXEC_COMMAND_ID">
       <value>
         <option name="FOREGROUND" value="87af87" />

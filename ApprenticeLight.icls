@@ -303,7 +303,6 @@
     <option name="CSS.PROPERTY_NAME">
       <value>
         <option name="FOREGROUND" value="8787af" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CSS.PROPERTY_VALUE">
@@ -420,7 +419,6 @@
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="8787af" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
@@ -631,6 +629,11 @@
         <option name="ERROR_STRIPE_COLOR" value="8787af" />
       </value>
     </option>
+    <option name="DJANGO_ID">
+      <value>
+        <option name="FOREGROUND" value="8787af" />
+      </value>
+    </option>
     <option name="DJANGO_TAG_START_END">
       <value>
         <option name="FOREGROUND" value="5f8787" />
@@ -682,6 +685,11 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="GHERKIN_REGEXP_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="bcbcbc" />
+      </value>
+    </option>
     <option name="GROOVY_KEYWORD">
       <value>
         <option name="FOREGROUND" value="8fafd7" />
@@ -690,7 +698,6 @@
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="8787af" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_VALUE">
@@ -748,7 +755,6 @@
     <option name="INSTANCE_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="5f87af" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="INTERFACE_NAME_ATTRIBUTES">
@@ -1008,6 +1014,11 @@
         <option name="FOREGROUND" value="bcbcbc" />
       </value>
     </option>
+    <option name="PERL_AUTOLOAD">
+      <value>
+        <option name="FOREGROUND" value="5f8787" />
+      </value>
+    </option>
     <option name="PERL_EMBED_MARKER">
       <value>
         <option name="FOREGROUND" value="5f8787" />
@@ -1185,9 +1196,34 @@
         <option name="FOREGROUND" value="5fafaf" />
       </value>
     </option>
+    <option name="REGEXP.CHAR_CLASS">
+      <value>
+        <option name="FOREGROUND" value="e8bf6a" />
+      </value>
+    </option>
+    <option name="REGEXP.ESC_CHARACTER">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+      </value>
+    </option>
+    <option name="REGEXP.META">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+      </value>
+    </option>
     <option name="REGEXP.PARENTHS">
       <value>
         <option name="FOREGROUND" value="ffffaf" />
+      </value>
+    </option>
+    <option name="REGEXP.QUOTE_CHARACTER">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+      </value>
+    </option>
+    <option name="REGEXP.REDUNDANT_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="9396c0" />
       </value>
     </option>
     <option name="RHTML_COMMENT_ID">
@@ -1324,7 +1360,6 @@
     <option name="SASS_MIXIN">
       <value>
         <option name="FOREGROUND" value="5f8787" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="SASS_VARIABLE">
@@ -1381,7 +1416,6 @@
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="5f8787" />
-        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="TEXT">
@@ -1401,7 +1435,7 @@
       <value>
         <option name="FOREGROUND" value="262626" />
         <option name="BACKGROUND" value="bcbcbc" />
-        <option name="FONT_TYPE" value="3" />
+        <option name="FONT_TYPE" value="1" />
         <option name="ERROR_STRIPE_COLOR" value="ffffff" />
         <option name="EFFECT_TYPE" value="4" />
       </value>
@@ -1444,12 +1478,12 @@
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="af5f5f" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="XML_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="8787af" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="XML_ENTITY_REFERENCE">
@@ -1487,9 +1521,6 @@
       <value>
         <option name="FOREGROUND" value="bcbcbc" />
       </value>
-    </option>
-    <option name="XPATH.FUNCTION">
-      <value />
     </option>
     <option name="XPATH.KEYWORD">
       <value>

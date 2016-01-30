@@ -992,6 +992,31 @@
         <option name="FOREGROUND" value="5f8787" />
       </value>
     </option>
+    <option name="MARKDOWN.CODE">
+      <value>
+        <option name="FOREGROUND" value="5f8787" />
+      </value>
+    </option>
+    <option name="MARKDOWN_CODE_BLOCK">
+      <value>
+        <option name="FOREGROUND" value="5f8787" />
+      </value>
+    </option>
+    <option name="MARKDOWN_CODE_FENCE">
+      <value>
+        <option name="FOREGROUND" value="5f8787" />
+      </value>
+    </option>
+    <option name="MARKDOWN_CODE_SPAN">
+      <value>
+        <option name="FOREGROUND" value="5f8787" />
+      </value>
+    </option>
+    <option name="MARKDOWN_CODE_SPAN_MARKER">
+      <value>
+        <option name="FOREGROUND" value="5f8787" />
+      </value>
+    </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffffaf" />

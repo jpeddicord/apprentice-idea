@@ -21,6 +21,7 @@ This scheme was developed and tweaked for the following languages and views. Oth
 * JavaScript
 * Less
 * Mako
+* Markdown
 * PHP
 * Perl
 * Perl
